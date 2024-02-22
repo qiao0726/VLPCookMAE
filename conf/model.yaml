@@ -1,0 +1,6 @@
+# Model configuration
+model:
+  name: simple_nn
+  input_size: 28
+  hidden_layers: [128, 64]
+  output_size: 10
